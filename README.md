@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, everyone!
+### I'm Francisco Calixto, a software developer from Brazil, currently living in Uruguay. Reach me by [email](mailto:francisco.calixtoaudi@gmail.com) or [linkedin](https://linkedin.com/in/fcalixto)!
 
-<!--
-**coding-kiko/coding-kiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More about me:
 
-Here are some ideas to get you started:
+    curl -X GET www.amazing-programmers.com/api/Francisco-calixto
+    {
+	    "name": "Francisco Calixto",
+	    "email": "francisco.calixtoaudi@gmail.com",
+	    "age": 20,
+	    "job": "Jr Golang developer",
+	    "company": "Globant",
+	    "from": "São Paulo, Brazil",
+	    "currently": "Montevideo, Uruguay",
+	    "education": "Holberton School"
+	    "programming-languages": {
+		    "fluent": ["Python", "Go"],
+		    "others": ["C", "C++", "Javascript"]
+	    },
+	    "languages": ["Spanish","English","Portuguese"],
+	    "hobbies-&-interests": ["IoT", "Football", "Geography"]
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\
+I am currently working as a back-end developer, learning to build micro-services using the go-kit toolkit and utilizing other technologies such as Docker and other development/deployment techniques.
+
+One of the biggest areas of interest for me inside the technology industry is IoT. [Here](https://github.com/rrrorrigo/ESPot) you can get to know ESPot, an Iot project  me and two other teammates worked on for the final project of [Holberton School](https://holbertonschool.com) foundations program. You can watch the demo of the mvp [here](https://www.youtube.com/watch?v=kgPNJjicRKI/&t=7m36s).
