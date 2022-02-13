@@ -17,7 +17,7 @@ More about me:
 		    "fluent": ["Python", "Go"],
 		    "others": ["C", "C++", "Javascript"]
 	    },
-	    "languages": ["Spanish","English","Portuguese"],
+	    "languages": ["Spanish", "English", "Portuguese"],
 	    "hobbies-&-interests": ["IoT", "Football", "Geography"]
     }
 
