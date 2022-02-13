@@ -25,3 +25,5 @@ More about me:
 I am currently working as a back-end developer, learning to build micro-services using the go-kit toolkit and utilizing other technologies such as Docker and other development/deployment techniques.
 
 One of the biggest areas of interest for me inside the technology industry is IoT. [Here](https://github.com/rrrorrigo/ESPot) you can get to know ESPot, an Iot project  me and two other teammates worked on for the final project of [Holberton School](https://holbertonschool.com) foundations program. You can watch the demo of the mvp [here](https://www.youtube.com/watch?v=kgPNJjicRKI/&t=7m36s).
+
+Feel free to look around and explore some of my work :D
