@@ -15,7 +15,7 @@ More about me:
 	    "education": "Holberton School"
 	    "programming-languages": {
 		    "fluent": ["Python", "Go"],
-		    "others": ["C", "C++", "Javascript"]
+		    "others": ["C", "C++"]
 	    },
 	    "languages": ["Spanish", "English", "Portuguese"],
 	    "hobbies-&-interests": ["IoT", "Football", "Geography"]
