@@ -14,7 +14,7 @@ More about me:
 	    "currently": "Montevideo, Uruguay",
 	    "education": "Holberton School"
 	    "programming-languages": {
-		    "fluent": ["Python", "Go"],
+		    "fluent": ["Go", "Python"],
 		    "others": ["C", "C++"]
 	    },
 	    "languages": ["Spanish", "English", "Portuguese"],
