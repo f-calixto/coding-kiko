@@ -8,7 +8,7 @@ More about me:
 	    "name": "Francisco Calixto",
 	    "email": "francisco.calixtoaudi@gmail.com",
 	    "age": 21,
-	    "job": "Jr Golang developer",
+	    "job": "Go developer",
 	    "company": "Globant",
 	    "from": "São Paulo, Brazil",
 	    "currently": "Montevideo, Uruguay",
